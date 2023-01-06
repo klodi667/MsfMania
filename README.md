@@ -1,0 +1,2 @@
+# MsfMania
+MsfMania (metasploit)
