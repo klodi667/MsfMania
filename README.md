@@ -7,7 +7,7 @@ MsfMania (metasploit)
 <body>
 
 
-<p><a href="https://www.youtube.com/watch?v=axDOQbo20iE&ab_channel=Hypocrisy">Visit W3Schools.com!</a></p>
+<p><a href="https://www.youtube.com/watch?v=axDOQbo20iE&ab_channel=Hypocrisy"></a></p>
 
 </body>
 </html>
